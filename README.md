@@ -1,6 +1,7 @@
 # Australian Tax Calculator 2024-25
 
 A modern calculator for Australian resident income tax rates.
+
 🌐 **Live Demo**: [https://sumit961.github.io/Australian-Tax-Calculator-2025/](https://sumit961.github.io/Australian-Tax-Calculator-2025/)
 
 ## Features
